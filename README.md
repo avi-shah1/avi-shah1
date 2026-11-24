@@ -5,6 +5,7 @@
 ## Hackathons
 
 🥉 **3rd place** · [Anything Applied Agentic Hackathon](https://luma.com/gap48i1m), San Francisco · [demo video](https://www.loom.com/share/c5d85f5988e8424caace7a379dfa6ac8)
+
 🥇 **Winner, Compound Viral Award** · [Hack the Feed](https://luma.com/92iq2a12)<br>
 
 
