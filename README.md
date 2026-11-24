@@ -21,6 +21,8 @@
 
 - **[Restaurant Procurement Agent](https://github.com/avi-shah1/restaurant-procurement-agent)**: forecasts what a kitchen is about to run out of, searches the web for better supplier prices, and recommends what to order. Python does all the arithmetic, and the agent only chooses between options Python has already priced. A person approves every decision before a request-for-quote draft is created. Python, Flask, Supabase, ZooWork Managed Agents, Tavily. One-day hackathon build. [Live demo](https://restaurant-procurement-agent-xi.vercel.app/).
 
+- **[Polty](https://github.com/avi-shah1/ghost-personal-agent/tree/polty-hackathon)**: a voice agent with no body of its own that borrows devices with permission (your phone's camera, smart lights, an Arduino, live traffic cameras) and shows what it sees on a live canvas. [Live demo](https://ghost-agents-production-62dd7a4d.up.railway.app).
+
 - **[Tradie Talk](https://github.com/avi-shah1/trades-project)**: practise handling complaint calls as a tradesperson. Pick a scenario, talk out loud to an AI customer, then get a scored debrief. Next.js, TypeScript, ElevenLabs voice agents, Claude. Built at an SF Tech Week hackathon. [Live demo](https://trades-project.vercel.app).
 
 ## Stack
